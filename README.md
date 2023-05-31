@@ -1,1 +1,8 @@
 # Capstone_Project_04_Zomato-Restaurant-and-Clustering-analysis
+India's largest Food Delivery, Dining and Restaurant Discovery Service. Better food for more people.The Project focuses on Customers and Company, you have to analyze the sentiments of the reviews given by the customer in the data and made some useful conclusion in the form of Visualizations. Also, cluster the zomato restaurants into different segments. The data is vizualized as it becomes easy to analyse data at instant. The Analysis also solve some of the business cases that can directly help the customers finding the Best restaurant in their locality and for the company to grow up and work on the fields they are currently lagging in.
+
+This could help in clustering the restaurants into segments. Also the data has valuable information around cuisine and costing which can be used in cost vs. benefit analysis.
+
+I was always astonished by how each of the restaurants are able to keep up the pace inspite of that cutting edge competition. And what factors should be kept in mind if someone wants to open new restaurant. Does the demography of an area matters? Does location of a particular type of restaurant also depends on the people living in that area? Does the theme of the restaurant matters? Is a food chain category restaurant likely to have more customers than its counter part?
+
+First, I performed data cleaning for the raw data. Asking right question to dataset is always considered as great approach so I asked some very meaningful questions and plotted graphs and other visualization entities to get insights from data.
